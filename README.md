@@ -22,15 +22,3 @@ This is a beginner-friendly PHP web application that allows users to manage a bo
 - No database needed
 
 ---
-
-## How to Run
-
-### Option 1: Using Localhost (XAMPP, WAMP, etc.)
-1. Place the project folder inside the `htdocs` directory (for XAMPP)
-2. Start **Apache server**
-3. Visit: `http://localhost/your-project-folder/`
-
-### Option 2: Using PHP Built-in Server
-```bash
-cd your-project-folder
-php -S localhost:8000
